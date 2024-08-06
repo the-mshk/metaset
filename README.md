@@ -1,4 +1,4 @@
-# mЬetaset
+# Metaset
 simple tool to read/write exif dta of images
 
 ## Overview
