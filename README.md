@@ -17,6 +17,7 @@ This script allows users to read and edit metadata of `.jpg` image files. It ext
 - `Pillow`
 - `colorama`
 - `tkinter`
+- `piexif`
 
 ## Installation
 
